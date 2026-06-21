@@ -6,7 +6,6 @@ GlideBar is a Windows AutoHotkey v2 script for fast vertical and horizontal scro
 
 ---
 
-## English
 
 ## Overview
 
@@ -65,7 +64,6 @@ I cannot guarantee that it works in every environment.
 
 ---
 
-## 日本語
 
 ## 概要
 
